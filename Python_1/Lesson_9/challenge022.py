@@ -1,0 +1,11 @@
+userName = "Arthur Guilherme" #str(input("Tell me your name: "))
+print("Upper Name: ", userName.upper())
+print("Lower Name: ", userName.lower())
+print("*"*100)
+
+splitNameUser = userName.split()
+nameWithoutSpaces = userName.strip()
+print("Letters Number of the First Name: ", len(splitNameUser[0]))
+print(userName)
+print(userName.count(" "))
+print(len(userName) - userName.count(" "))

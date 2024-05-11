@@ -1,6 +1,11 @@
 #Working with Strings
-
+# len(), count(), find(), transformações com replace(), upper(), lower(), capitalize(), title(), strip(), join()
 f = "Course in Video Python"
+print(f[1:15])#1-14,. without 15
+print(f[1:15:2])#jumping 2 and 2
+print(f[1::2])#I don't know the end
+print("-"*100)
+#--------------------
 print("Length: ",len(f))
 print("Count with: ",f.count("o"))
 print("Count with Slicing: ",f.count("o", 0, 13))
@@ -31,5 +36,7 @@ justEachWord = f.split()
 print("Split in the first small list: ",justEachWord[0])#Divide in new small lists
 courseWord = justEachWord[0]
 print(courseWord)
-
-#28:25
+print(justEachWord)
+print("-"*100)
+print("Join")
+print("$".join(justEachWord))
