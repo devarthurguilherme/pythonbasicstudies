@@ -1,0 +1,2 @@
+myTupleHere = ()
+print(myTupleHere)

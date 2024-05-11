@@ -1,5 +1,5 @@
 #Working with Strings
-# len(), count(), find(), transformações com replace(), upper(), lower(), capitalize(), title(), strip(), join()
+# len(), count(), find(), replace(), upper(), lower(), capitalize(), title(), strip(), join()
 f = "Course in Video Python"
 print(f[1:15])#1-14,. without 15
 print(f[1:15:2])#jumping 2 and 2
