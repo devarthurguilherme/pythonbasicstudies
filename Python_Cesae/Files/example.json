@@ -1,0 +1,9 @@
+{
+    "students": [
+        {"name": "Arthur", "age": 20, "city": "Vila Nova de Famalicão"},
+        {"name": "Alex", "age": 22, "city": "Rio de Janeiro"},
+        {"name": "Pedro", "age": 21, "city": "Ilha da Madeira"}
+    ],
+    "course": "Python Programming",
+    "duration": "3 months"
+}
