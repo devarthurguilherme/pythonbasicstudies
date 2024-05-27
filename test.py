@@ -1,5 +1,6 @@
-arthur = {"nome":"Arthur Guilherme de Souza Silva"}
-arthur_name = arthur["nome"]
-result = "Guilherme" in arthur_name
+import json
 
-print(result)
+#f = open('JSON_Lesson/sample4.json')#relative way
+#data = json.load(f)
+#print(data)
+#f.close()
