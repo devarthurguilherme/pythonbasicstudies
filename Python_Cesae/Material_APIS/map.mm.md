@@ -22,8 +22,3 @@
 3. **Endpoint:** É o ponto de acesso de uma API, geralmente representado por uma URL.
 
 4. **Métodos HTTP:** São os verbos utilizados para indicar a ação a ser realizada no recurso. Os principais são GET, POST, PUT e DELETE.
-
-## Exercício Prático:
-
-1. Utilize uma ferramenta como o Postman ou escreva um código em uma linguagem de programação para fazer uma requisição GET para o endpoint `https://jsonplaceholder.typicode.com/posts`.
-2. Exiba os dados recebidos na resposta.
